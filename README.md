@@ -1,2 +1,2 @@
 # IO
-Este repositorio contiene tampletas que dan una introducción a python
+Este repositorio contiene templetas que dan una introducción a python
